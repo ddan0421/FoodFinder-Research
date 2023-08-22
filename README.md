@@ -1,2 +1,2 @@
 # food-programs-data-management-and-profiling
-This report examines 110 food programs within Interstate 285, an Interstate Highway loop encircling Atlanta, Georgia. We compile a list of 110 food programs within the Perimeter and organize the list based on crucial information such as contact(email, call), operating days/hours, services provided, and services area are MISSING for each entry.
+FoodFinder is a food pantry locator and 501(c)(3) nonprofit that shows you when and where to get free food assistance in your area.1The image below shows the homepage of FoodFinder. Each red pin represents a food assistance program, including the program’s details such as contact, operating hours/days, and service information.
